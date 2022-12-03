@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dhruv34527
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dhruv
+- 👀 I’m interested in Machine learning.
+- 🌱 I’m currently learning java.
+- 💞️ I’m looking to collaborate on open surce projects.
+- 📫 How to reach me 
 
 <!---
 dhruv34527/dhruv34527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
